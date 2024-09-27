@@ -17,7 +17,7 @@ function toggleMode() {
   //trocar o alt
   if (html.classList.contains("light")) {
     // Se tiver light mode, ativar a img light
-    img.setAttribute("alt", "Foto de Mayk Brito, light mode")
+    img.setAttribute("alt", "Foto de Pedro Guedes tocando violão, light mode")
   } else {
     //se tiver sem light mode, manter a imagem normal
     img.setAttribute("alt", "Foto de Pedro Guedes tocando violão, dark mode")
